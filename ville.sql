@@ -426,6 +426,8 @@ INSERT INTO `ville` (`id`, `ville`, `region`) VALUES
 (400, 'Boujdour‎', 15),
 (401, 'Awsard', 16),
 (402, 'Oued-Eddahab ', 16);
+(403, 'Stehat', 13);
+(404, 'Aït Attab', 12);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
