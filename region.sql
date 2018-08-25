@@ -45,7 +45,7 @@ INSERT INTO `region` (`id`, `region`) VALUES
 (9, 'Souss - Massa'),
 (10, 'Guelmim - Oued Noun'),
 (11, 'Laâyoune - Sakia El Hamra'),
-(12, 'Dakhla-Oued Eddahab'),
+(12, 'Dakhla-Oued Eddahab');
 
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
