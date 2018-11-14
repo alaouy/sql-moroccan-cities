@@ -1,0 +1,68 @@
+{
+  "region": [
+    {
+      "id": "1",
+      "region": "Grand Casablanca"
+    },
+    {
+      "id": "2",
+      "region": "Chaouia-Ouardigha"
+    },
+    {
+      "id": "3",
+      "region": "Doukkala-Abda"
+    },
+    {
+      "id": "4",
+      "region": "Fès-Boulemane"
+    },
+    {
+      "id": "5",
+      "region": "Gharb-Chrarda-Beni Hssen"
+    },
+    {
+      "id": "6",
+      "region": "Guelmim-Es Semara"
+    },
+    {
+      "id": "7",
+      "region": "Marrakech-Tensift-Al Haouz"
+    },
+    {
+      "id": "8",
+      "region": "Meknès-Tafilalet"
+    },
+    {
+      "id": "9",
+      "region": "{{10}}''{{11}}''{{12}}"
+    },
+    {
+      "id": "10",
+      "region": "Rabat-Salé-Zemmour-Zaër"
+    },
+    {
+      "id": "11",
+      "region": "Souss-Massa-Draâ"
+    },
+    {
+      "id": "12",
+      "region": "Tadla-Azilal"
+    },
+    {
+      "id": "13",
+      "region": "Tanger-Tétouan"
+    },
+    {
+      "id": "14",
+      "region": "Taza-Al Hoceïma-Taounate"
+    },
+    {
+      "id": "15",
+      "region": "Laayoune-Boujdour-Sakia-Hamra"
+    },
+    {
+      "id": "16",
+      "region": "Oued-Eddahab-Lagouira"
+    }
+  ]
+}
