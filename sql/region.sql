@@ -34,22 +34,18 @@ CREATE TABLE IF NOT EXISTS `region` (
 --
 
 INSERT INTO `region` (`id`, `region`) VALUES
-(1, 'Grand Casablanca'),
-(2, 'Chaouia-Ouardigha'),
-(3, 'Doukkala-Abda'),
-(4, 'Fès-Boulemane'),
-(5, 'Gharb-Chrarda-Beni Hssen'),
-(6, 'Guelmim-Es Semara'),
-(7, 'Marrakech-Tensift-Al Haouz'),
-(8, 'Meknès-Tafilalet'),
-(9, 'l''''Oriental'),
-(10, 'Rabat-Salé-Zemmour-Zaër'),
-(11, 'Souss-Massa-Draâ'),
-(12, 'Tadla-Azilal'),
-(13, 'Tanger-Tétouan'),
-(14, 'Taza-Al Hoceïma-Taounate'),
-(15, 'Laayoune-Boujdour-Sakia-Hamra'),
-(16, 'Oued-Eddahab-Lagouira');
+(1, 'Tanger-Tétouan-Al Hoceïma'),
+(2, 'l''Oriental'),
+(3, 'Fès-Meknès'),
+(4, 'Rabat-Salé-Kénitra'),
+(5, 'Béni Mellal-Khénifra'),
+(6, 'Casablanca-Settat'),
+(7, 'Marrakech-Safi'),
+(8, 'Drâa-Tafilalet'),
+(9, 'Souss-Massa'),
+(10, 'Guelmim-Oued Noun'),
+(11, 'Laâyoune-Sakia El Hamra'),
+(12, 'Dakhla-Oued Ed Dahab');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
