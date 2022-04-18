@@ -26,7 +26,8 @@ CREATE TABLE IF NOT EXISTS `ville` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `ville` varchar(40) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
   `region` int(11) NOT NULL,
-  PRIMARY KEY (`id`)
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`region`) REFERENCES region(`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=403 ;
 
 --
